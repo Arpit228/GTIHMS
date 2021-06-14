@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">GTI HMS</string>
+    <string name="gti">GAIL Training Institute</string>
+    <string name="hms">Hostel Management System</string>
+    <string name="signup">Sign-Up</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="submit">Submit</string>
+
+    <string name="logintosignup">New User? Click here to sign-up</string>
+    <string name="signuptologin">Existing User? Click here to Login</string>
+
+    <string name="profile">Select profile</string>
+    <string name="applicant">Applicant</string>
+    <string name="authority">Authority</string>
+    <string name="empid">Employee ID</string>
+    <string name="name">Name</string>
+    <string name="designation">Designation</string>
+    <string name="email">E-Mail</string>
+    <string name="pwd">Password</string>
+    <string name="location">Location</string>
+    <string name="prg">Programme</string>
+    <string name="startdate">Start Date (in ddmmyyyy format)</string>
+    <string name="enddate">End Date (in ddmmyyyy format)</string>
+    <string name="sdate">Start Date</string>
+    <string name="edate">End Date</string>
+    <string name="status">Current Status</string>
+    <string name="roomno">Room No.</string>
+    <string name="room_alloted">Room Allotted</string>
+
+
+    <string name="update">Update Details</string>
+    <string name="bookroom">Request for Room</string>
+    <string name="checkstatus">Check Request Status</string>
+
+    <string name="viewrequests">View Room Requests</string>
+    <string name="roomstatus">View and Edit Room Status</string>
+
+    <string name="applicantdashboard">Applicant Dashboard</string>
+    <string name="authoritydashboard">Authority Dashboard</string>
+
+</resources>

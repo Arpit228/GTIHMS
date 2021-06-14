@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "411049562833",
+    "firebase_url": "https://gti-hostel-booking-default-rtdb.firebaseio.com",
+    "project_id": "gti-hostel-booking",
+    "storage_bucket": "gti-hostel-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411049562833:android:f03ce6c32c44e13c072bf0",
+        "android_client_info": {
+          "package_name": "com.example.gtihms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411049562833-9kskko4v2ie7to0oh1h1b0coshridf6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH6scHDKr2Ha-tzr6_-aIqLP0AtBBqJsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411049562833-9kskko4v2ie7to0oh1h1b0coshridf6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411049562833:android:3c57a979bc752153072bf0",
+        "android_client_info": {
+          "package_name": "com.example.gtihostelbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411049562833-9kskko4v2ie7to0oh1h1b0coshridf6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH6scHDKr2Ha-tzr6_-aIqLP0AtBBqJsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411049562833-9kskko4v2ie7to0oh1h1b0coshridf6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

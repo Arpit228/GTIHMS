@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gtihms">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GTIHMS">
+        <activity android:name=".authority.AttendRequest"></activity>
+        <activity android:name=".authority.Room" />
+        <activity android:name=".applicant.CheckStatus" />
+        <activity android:name=".applicant.BookRoom" />
+        <activity android:name=".Update" />
+        <activity android:name=".authority.AuthorityDashboard" />
+        <activity android:name=".applicant.ApplicantDashboard" />
+        <activity android:name=".Signup" />
+        <activity android:name=".Login" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
